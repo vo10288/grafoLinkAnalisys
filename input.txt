@@ -1,0 +1,3 @@
+'Società A'; 'Via Ferrari 1,Bologna', Italy; 'Amministratore 1'; 'Via Edoardo Weber 1, Bologna', Italy;
+'Società B'; 'Via Colonna 1, Roma', Italy; 'Amministratore 2'; 'Via Bologna 1, Roma', Italy;
+'Società C'; 'Via Nazionale 1, Firenze', Italy; 'Amministratore 3'; 'Via Edoardo Weber 12, Bologna', Italy;
